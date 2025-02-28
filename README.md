@@ -10,7 +10,7 @@ Highlights:
 ⭐ Deployment using Render
 ⏳ And much more!
 
-Setup .env file
+Setup .env file: 
 MONGODB_URI=...
 JWT_SECRET=...
 
